@@ -1,2 +1,2 @@
-# Spotify_Clone
-A simple UI which allows users to select the music album to play
+# Spotify
+Spotify clone project using HTML,CSS and Java Script
